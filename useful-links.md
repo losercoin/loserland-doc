@@ -1,5 +1,13 @@
 # Useful Links
 
+## Game Links
+
+Web: [https://www.loserland.org/](https://www.loserland.org)
+
+Mobile: [https://www.loserland.org/mobile](https://www.loserland.org/mobile)
+
+
+
 ## Community
 
 You can find the team and other players on the LoserCoin [**Telegram**](https://t.me/loser\_coin\_english) or  [**Discord Server**](https://discord.gg/xz5v2GXYkn) ****&#x20;

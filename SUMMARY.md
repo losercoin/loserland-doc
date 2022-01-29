@@ -8,4 +8,5 @@
 * [Crafting Guide](crafting-guide.md)
 * [Resources](resources.md)
 * [How to deploy an NFT?](how-to-deploy-an-nft.md)
+* [Pray Guide](pray-guide.md)
 * [2022 Roadmap](2022-roadmap.md)
